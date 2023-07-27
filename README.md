@@ -25,6 +25,7 @@ Required for UFDT.
 2. Linked List :
 Required for DILB
 Diagram of data structures used in the project: 
+![image](https://github.com/ShashankMakhija/Customised-Virtual-File-System/assets/95210501/9ce4d5e6-a9e2-4c66-9060-46fcb898c21d)
 
 
 
